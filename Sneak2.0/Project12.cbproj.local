@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.104,=D:\Programs on Builder c++\Sneak2.0\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.070,=D:\Programs on Builder c++\Sneak2.0\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.521,D:\Programs on Builder c++\Unit15.cpp=D:\Programs on Builder c++\Sneak2.0\Unit15.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.659,=D:\Programs on Builder c++\Unit15.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.521,D:\Programs on Builder c++\Unit15.h=D:\Programs on Builder c++\Sneak2.0\Unit15.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.313,D:\Programs on Builder c++\Project12.cbproj=D:\Programs on Builder c++\Sneak2.0\Project12.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.521,D:\Programs on Builder c++\Unit15.dfm=D:\Programs on Builder c++\Sneak2.0\Unit15.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.865,D:\Programs on Builder c++\Project12PCH1.h=D:\Programs on Builder c++\Sneak2.0\Project12PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.574,=D:\Programs on Builder c++\Project12PCH1.h</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Project12.cpp"/>
+    <File Path="Project12PCH1.h"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit1.h"/>
+    <File Path="Unit15.cpp"/>
+    <File Path="Unit15.cpp"/>
+    <File Path="Unit15.dfm"/>
+    <File Path="Unit15.h"/>
+    <File Path="Unit2.cpp"/>
+    <File Path="Unit2.cpp"/>
+    <File Path="Unit2.dfm"/>
+    <File Path="Unit2.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
